@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：记录阅读
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 067 篇 - 百家乐Ai预测分析工具：交易日期与业务归属日期可以不同](https://github.com/TGmszrcsz/baccarat-ai-067) ｜ [下一篇：第 069 篇 - 百家乐Ai预测分析工具：账户与房间是两个不同的分组维度](https://github.com/TGmszrcsz/baccarat-ai-069)
+
+<!-- article-chain:end -->
+
 期末额度与页面变动列表无法直接对应。本篇围绕“从期初到期末检查账务数据的连贯性”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、本篇解决的阅读问题
